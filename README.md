@@ -3,4 +3,5 @@ Hi! Welcome to my project portfolio. Here, I will upload my various data project
 
 ### Tools
 Languages: SQL, R
+
 Visualization tools: Power BI
