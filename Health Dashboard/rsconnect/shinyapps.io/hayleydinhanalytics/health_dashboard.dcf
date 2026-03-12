@@ -1,0 +1,10 @@
+name: health_dashboard
+title:
+username: hayleydinhanalytics
+account: hayleydinhanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15891887
+bundleId: 11095742
+url: https://hayleydinhanalytics.shinyapps.io/health_dashboard/
+version: 1
