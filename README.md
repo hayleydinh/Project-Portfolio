@@ -1,5 +1,6 @@
 # Hayley's Project Portfolio
 ![profile picture](Images/Me.png)
+<img src="Me.png" width="150" alt="Hayley's profile picture">
 Hi! Welcome to my project portfolio. I aim to build data-driven solutions that help businesses understand their markets more deeply. My GitHub repository highlights my technical journey in extracting, cleaning, and visualizing data to solve real-world problems.
 
 This repository is my digital playground. It is where I keep my collection of projects turning messy, raw data into a clearer picture. I'm most passionate about the puzzle-solving aspects of data analytics and I'm constantly experimenting with new tools to uncover the story hidden behind the numbers. I believe every dataset has a story to tell, and I am glad to be their voice. Thanks for stopping by to take a look at my progress.
